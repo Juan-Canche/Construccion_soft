@@ -1,6 +1,6 @@
 public class Cliente {
     // Numeros magicos transformados a constantes lo que genera mayor contexto en los metodos.
-    // Antes los valores estaban escritos directamente dentro del metodo
+    // Antes los valores estaban escritos directamente dentro del metodo.
     private static final String CATEGORIA_PREMIUM = "PREMIUM";
     private static final int ANIOS_ANTIGUEDAD_PARA_DESCUENTO_MAYOR = 5;
     private static final double PORCENTAJE_DESCUENTO_MAYOR = 0.20;
